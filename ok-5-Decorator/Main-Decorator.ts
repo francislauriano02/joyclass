@@ -2,6 +2,7 @@ import { SanduinchePadrao } from "./SanduinchePadrao";
 import { QueijoMussarelaRadaloDecorator } from "./QueijoMussarelaRadaloDecorator";
 import { PepperoniDecorator } from "./PepperoniDecorator";
 
+
 const sanduicheDeFrango = new SanduinchePadrao('Frango Assado', 4.50);
 console.log(sanduicheDeFrango.toString());
 
